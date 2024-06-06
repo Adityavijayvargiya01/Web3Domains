@@ -71,3 +71,19 @@ Run automated tests with Hardhat:
 ```bash
 npx hardhat test
 ```
+
+## Demonstrating the Process with MetaMask
+
+Using MetaMask, a popular Ethereum wallet and browser extension, simplifies the interaction with Web3Domains. Here’s a step-by-step demonstration of the process:
+
+1. **Install MetaMask**: Ensure you have MetaMask installed and set up in your browser.
+
+2. **Connect MetaMask to Web3Domains**:
+   - Open the Web3Domains application.
+   - Click on the "Connect Wallet" button and select MetaMask.
+   - Approve the connection in the MetaMask popup.
+
+3. **Register a Domain**:
+   - Navigate to the domain registration section.
+   - Enter the desired domain name and submit the registration request.
+   - Confirm the transaction in MetaMask. Once the transaction is confirmed on the blockchain, the domain is minted as an NFT and assigned to your Ethereum address.

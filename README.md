@@ -2,6 +2,10 @@
 
 Web3Domains is a decentralized domain name service built on the Ethereum blockchain, providing a secure and censorship-resistant way to manage domains and online identities. With Web3Domains, users have true ownership and control over their domain names, represented as non-fungible tokens (NFTs) on the Ethereum network.
 
+![Web3Domains Process Flowchart](public/Flowchart.png "Web3Domains Process Flow")
+
+The flowchart above illustrates the end-to-end process of registering and resolving a domain name using the Web3Domains service.
+
 ## Features
 
 - **Decentralized Ownership**: Domain names are minted as ERC-721 NFTs, giving users full control and ownership of their online identities.
@@ -15,13 +19,6 @@ Web3Domains is a decentralized domain name service built on the Ethereum blockch
 - **Solidity**: Smart contracts for domain registration, ownership, and resolution logic.
 - **JavaScript**: Frontend application built with React.js and Ethers.js for blockchain interaction.
 - **Hardhat**: Ethereum development environment for compiling, testing, and deploying smart contracts.
-
-## 
-
-![Web3Domains Process Flowchart](public/Flowchart.png "Web3Domains Process Flow")
-
-### The flowchart above illustrates the end-to-end process of registering and resolving a domain name using the Web3Domains service.
-
 
 ## Getting Started
 

@@ -20,14 +20,13 @@ The flowchart above illustrates the end-to-end process of registering and resolv
 - **JavaScript**: Frontend application built with React.js and Ethers.js for blockchain interaction.
 - **Hardhat**: Ethereum development environment for compiling, testing, and deploying smart contracts.
 
-## Getting Started
 
 ### Requirements
 
 - [Node.js](https://nodejs.org/en/) (version 12 or later)
 - [NPM](https://www.npmjs.com/) (comes bundled with Node.js)
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
@@ -42,7 +41,7 @@ cd web3domains
 npm install
 ```
 
-### Running Locally
+## Running Locally
 
 1. Start a local Ethereum node:
 
@@ -64,7 +63,7 @@ npm start
 
 The application should now be running at `http://localhost:3000`.
 
-### Testing
+## Testing
 
 Run automated tests with Hardhat:
 

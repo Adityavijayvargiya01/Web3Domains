@@ -16,6 +16,13 @@ Web3Domains is a decentralized domain name service built on the Ethereum blockch
 - **JavaScript**: Frontend application built with React.js and Ethers.js for blockchain interaction.
 - **Hardhat**: Ethereum development environment for compiling, testing, and deploying smart contracts.
 
+## 
+
+![Web3Domains Process Flowchart](public/Flowchart.png "Web3Domains Process Flow")
+
+### The flowchart above illustrates the end-to-end process of registering and resolving a domain name using the Web3Domains service.
+
+
 ## Getting Started
 
 ### Requirements
